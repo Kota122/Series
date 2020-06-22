@@ -78,61 +78,53 @@ header label:hover {
 
 #pg {
     width: auto;
-    background: rgba(31, 31, 31, 0.438);
+    background: rgba(31, 31, 31, 0.63);
     margin: 10px 10px;
     border:  solid rgba(0, 0, 0, 0.205);
     text-align     : center;
-    display   : flex;
-    flex-direction: column;
+
     border-radius: 9px;
 }
+
 #p1 {
     width: auto;
-    background: rgba(31, 31, 31, 0.438);
+    background: rgba(31, 31, 31, 0.63);
     margin: 10px 10px;
     border:  solid rgba(0, 0, 0, 0.205);
     text-align     : center;
-    display   : flex;
-    flex-direction: column;
     border-radius: 9px;
 }
 
 #p2 {
     width: auto;
-    background: rgba(31, 31, 31, 0.438);
+    background: rgba(31, 31, 31, 0.63);
     margin: 10px 10px;
     border:  solid rgba(0, 0, 0, 0.205);
     text-align     : center;
-    display   : flex;
-    flex-direction: column;
     border-radius: 9px;
 }
 
 #p3 {
     width: auto;
-    background: rgba(31, 31, 31, 0.438);
+    background: rgba(31, 31, 31, 0.63);
     margin: 10px 10px;
     border:  solid rgba(0, 0, 0, 0.205);
     text-align     : center;
-    display   : flex;
-    flex-direction: column;
     border-radius: 9px;
 }
 
 #p4 {
     width: auto;
-    background: rgba(31, 31, 31, 0.438);
+    background: rgba(31, 31, 31, 0.63);
     margin: 10px 10px;
     border:  solid rgba(0, 0, 0, 0.205);
     text-align     : center;
-    display   : flex;
-    flex-direction: column;
     border-radius: 9px;
 }
 
 #p5 {
     width: auto;
-    background: rgba(31, 31, 31, 0.438);
+    background: rgba(31, 31, 31, 0.63);
     margin: 10px 10px;
     border:  solid rgba(0, 0, 0, 0.205);
     text-align     : center;
